@@ -1,0 +1,5 @@
+C:\Users\ALPAY\source\repos\NorthwindBackend\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.AssemblyReference.cache
+C:\Users\ALPAY\source\repos\NorthwindBackend\Entities\obj\Debug\netcoreapp3.1\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALPAY\source\repos\NorthwindBackend\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\ALPAY\source\repos\NorthwindBackend\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\ALPAY\source\repos\NorthwindBackend\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
